@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">aiApp</string>
+    <string name="ai_image_generator">       AI Image Generator</string>
+</resources>
