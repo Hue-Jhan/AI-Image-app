@@ -3,14 +3,11 @@ Simple Android app in java that uses Stable Horde Api to generate images given a
 
 # 📱 App
 
-
 <img align="right" src="media/aiapp.jpg" width="200" />
 
-This application is a simple page with a text box, an image box and a button. To use the AI you have to type the prompt in the text box, click the button and wait until the image appears on the screen.
+This app is a simple page with a text box, an image box and a button. To use the AI you simply type the prompt in the text box and click the button. Nsfw images require much more time to generate compared to Sfw images. 
 
-Nsfw images require much more time compared to Sfw images. 
-
-The api used is Stable Horde Api, its free on their website once you register your google account [here](https://stablehorde.net/), and here you can take a look at the api calls https://stablehorde.net/api/.
+The api used is Stable Horde Api, you can get a key for free [here](https://stablehorde.net/), and [here](https://stablehorde.net/api/) are all the api calls.
 
 # 💻 Code
 
